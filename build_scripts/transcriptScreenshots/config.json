@@ -1,0 +1,9 @@
+{
+  "triggerPhrases": [
+    "pause the video",
+    "while I give you a couple of seconds"
+  ],
+  "concurrency": 30,
+  "dryRunLimit": 100,
+  "dryRunConcurrency": 20
+}

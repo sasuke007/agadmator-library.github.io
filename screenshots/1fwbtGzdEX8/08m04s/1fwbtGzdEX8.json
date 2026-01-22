@@ -1,0 +1,281 @@
+{
+  "_id": "1fwbtGzdEX8",
+  "videoSnippet": {
+    "schemaVersion": 1,
+    "retrievedAt": "2023-03-20T19:19:38.941Z",
+    "publishedAt": "2023-03-20T19:00:00Z",
+    "title": "Bobby Fischer's First Recorded Game",
+    "description": "This! https://www.komuso.com/people/people.pl?person=1477\nSpassky vs Fischer https://www.youtube.com/watch?v=qjqKljxYtdU\n\nSearch all my videos easy https://agadmator-library.github.io/\nHave a great day :)\n\nDan E Mayers vs Robert James Fischer\nBlitz game (1953) (blitz), New York, NY USA, Jan-??\nKing's Gambit: Accepted. Bishop's Gambit Bogoljubow Defense (C33)\n\n1. e4 e5 2. f4 ef4 3. Bc4 Nf6 4. Nc3 c6 5. d4 Bb4 6. e5 Ne4 7. Qh5 O-O 8. Nge2 d5 9. Bb3 g6 10. Qh6 Bg4 11. Bd2 Nd2 12. Kd2 g5 13. h4 gh4 14. Rh4 Bf5 15. Rah1 Be7 16. Rg4 Bg6 17. Qh7\n\nCheck out agadmator's merch here https://teespring.com/stores/agadmators-swag-store\nhttps://teespring.com/design-with-a-story-tm\n\nMailbox where you can send stuff:\n\nAntonio Radić\nAGADMATOR d.o.o.\nFranje Tuđmana 12\nCroatia\n48260 Križevci \np.s. this is not my home address :)\n\nContact me: agadmatormanga@gmail.com or agadmator@gmail.com \n\nDownload agadmator chess clock for iOS here https://apps.apple.com/us/app/agadmator-chess-clock/id1474461379?ls=1&fbclid=IwAR2lhuxf60tpbW1vcvfXgdFzmShi6fHcrKxFF_NAhu9wLQwpJrAFbMWRYjk\n\nDownload agadmator chess clock for Android here https://play.google.com/store/apps/details?id=8 com.agadmator.chessclock&fbclid=IwAR3b_sRch6nsuW59-bWoirVDMMJ8V5jexZdUB0bsxQrc0Q8imvkBtqkHUXQ&rdid=com.agadmator.chessclock\n\nVideo created by OBS\n\n----------------------------------------------------------------------------------------------------------------------------------------\nIf you realllly enjoy my content, you're welcome to support me and my channel with a small donation via PayPal or Crypto.\n\nLink to PayPal donation https://www.paypal.me/agadmator\n\nMaiar Wallet @agadmator or join me here https://get.maiar.com/referral/pv0mam6l2a\nBTC address bc1qckd3ut0hqyymzv33eus97ld8klj02xhk2kcwld\nBCH address qzmfclyn69hqhjslls40r7r0dsttwe3tcsl946w4fr\nLTC address Laarf1RmvCpLt2BcSwC1PBLG3hRC4HjBrz\n\nNANO nano_1h1kgfaq88t1btwadqzx73rbha5hwbb88sxmfns851kwj8hnosdj51w388xx\nMonero 4AdvvqmC4xhPyyRSAEDxTTAoXdxAtX2Py6b8Eh4EQzBLGbgo5rY5Khcap1x76JrDJH87yibAE9b6TPwTsvBAiFFCLtM8Be7\nFor any other currency address, contact me via agadmator@gmail.com\n\nCheck out some of the books I enjoy https://www.amazon.com/ideas/amzn1.account.AFWWCIBWCL5PGEPL73FDWK632F7Q/2QAGBMLVXE7MG\n\nCheck out ALL my videos here https://www.youtube.com/watch?v=fYgd5ZLdHz8&list=PLDnx7w_xuguFTxcfiM11bB1JchtHclEJg\n\nFacebook: https://www.facebook.com/agadmatoryoutube\nTwitter: https://twitter.com/agadmator\nInstagram: https://www.instagram.com/agadmator/\nLichess: https://lichess.org/@/agadmator\nChess.com: agadmator\nLeague of Legends: agadmator (EUNE, my friend is using my EUWE account for a couple of years now)\nBlizzard: agadmator #2992 \nJoin our Discord Server here https://discord.gg/bY6BbRP\n\n#youareawesome",
+    "thumbnail": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/1fwbtGzdEX8/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/1fwbtGzdEX8/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/1fwbtGzdEX8/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/1fwbtGzdEX8/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/1fwbtGzdEX8/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "videoId": "1fwbtGzdEX8"
+  },
+  "videoContentDetails": {
+    "duration": "PT10M23S"
+  },
+  "videoGame": [
+    {
+      "pgn": "1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 c6 5. d4 Bb4 6. e5 Ne4 7. Qh5 O-O 8. Ne2 d5 9. Bb3 g6 10. Qh6 Bg4 11. Bd2 Nxd2 12. Kxd2 g5 13. h4 gxh4 14. Rxh4 Bf5 15. Rah1 Be7 16. Rg4+ Bg6 17. Qxh7#",
+      "fen": "rn1q1rk1/pp2bp1Q/2p3b1/3pP3/3P1pR1/1BN5/PPPKN1P1/7R b - - 0 1",
+      "playerWhite": "Dan E Mayers",
+      "playerBlack": "Robert James Fischer",
+      "date": "1953-01-??"
+    }
+  ],
+  "chessCom": {
+    "retrievedAt": "2023-03-20T19:19:39.457Z",
+    "playerWhite": "Dan E Mayers",
+    "playerBlack": "Bobby Fischer",
+    "href": "https://www.chess.com/games/view/15775923",
+    "result": "1-0",
+    "movesCount": 17,
+    "year": 1953
+  },
+  "chesstempoCom": {
+    "reason": "NOT_FOUND",
+    "retrievedAt": "2025-09-19T09:44:43.283Z"
+  },
+  "chess365": {
+    "reason": "NOT_FOUND",
+    "retrievedAt": "2025-11-15T09:44:58.177Z"
+  },
+  "lichessMasters": {
+    "reason": "NOT_FOUND",
+    "retrievedAt": "2023-03-20T19:19:40.937Z"
+  },
+  "stockfishEval": [
+    {
+      "cp": null,
+      "mate": 0
+    }
+  ],
+  "lichessGameId": [
+    {
+      "id": "RlCGpPhJ"
+    }
+  ],
+  "lichessGameEval": [
+    {
+      "id": "RlCGpPhJ",
+      "rated": false,
+      "variant": "standard",
+      "speed": "correspondence",
+      "perf": "correspondence",
+      "createdAt": 1666076224134,
+      "lastMoveAt": 1666076224134,
+      "status": "mate",
+      "source": "import",
+      "players": {
+        "white": {
+          "name": "?",
+          "analysis": {
+            "inaccuracy": 2,
+            "mistake": 0,
+            "blunder": 1,
+            "acpl": 50,
+            "accuracy": 78
+          }
+        },
+        "black": {
+          "name": "?",
+          "analysis": {
+            "inaccuracy": 4,
+            "mistake": 0,
+            "blunder": 2,
+            "acpl": 109,
+            "accuracy": 60
+          }
+        }
+      },
+      "winner": "white",
+      "opening": {
+        "eco": "C33",
+        "name": "King's Gambit Accepted: Bishop's Gambit, Bogoljubow Defense",
+        "ply": 8
+      },
+      "moves": "e4 e5 f4 exf4 Bc4 Nf6 Nc3 c6 d4 Bb4 e5 Ne4 Qh5 O-O Ne2 d5 Bb3 g6 Qh6 Bg4 Bd2 Nxd2 Kxd2 g5 h4 gxh4 Rxh4 Bf5 Rah1 Be7 Rg4+ Bg6 Qxh7#",
+      "pgn": "[Event \"Import\"]\n[Site \"https://lichess.org/RlCGpPhJ\"]\n[Date \"2022.10.18\"]\n[White \"?\"]\n[Black \"?\"]\n[Result \"1-0\"]\n[UTCDate \"2022.10.18\"]\n[UTCTime \"06:57:04\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[Variant \"Standard\"]\n[TimeControl \"-\"]\n[ECO \"C33\"]\n[Opening \"King's Gambit Accepted: Bishop's Gambit, Bogoljubow Defense\"]\n[Termination \"Normal\"]\n\n1. e4 { [%eval 0.0] } 1... e5 { [%eval 0.12] } 2. f4 { [%eval -0.65] } 2... exf4 { [%eval -0.43] } 3. Bc4 { [%eval -0.91] } 3... Nf6 { [%eval -0.56] } 4. Nc3 { [%eval -0.09] } 4... c6 { [%eval -0.27] } 5. d4 { [%eval -0.36] } 5... Bb4 { [%eval -0.36] } 6. e5 { [%eval -0.8] } 6... Ne4 { [%eval -0.7] } 7. Qh5 { [%eval -0.83] } 7... O-O { [%eval 0.0] } 8. Ne2 { [%eval -0.03] } 8... d5 { [%eval 0.17] } 9. Bb3 { [%eval -0.52] } 9... g6 { [%eval 0.0] } 10. Qh6 { [%eval 0.17] } 10... Bg4 { [%eval 0.81] } 11. Bd2 { [%eval -3.09] } 11... Nxd2 { [%eval -3.21] } 12. Kxd2 { [%eval -3.06] } 12... g5 { [%eval 2.78] } 13. h4 { [%eval 2.53] } 13... gxh4 { [%eval 8.35] } 14. Rxh4 { [%eval 8.29] } 14... Bf5 { [%eval 8.56] } 15. Rah1 { [%eval 7.53] } 15... Be7 { [%eval 25.94] } 16. Rg4+ { [%eval 20.82] } 16... Bg6 { [%eval #1] } 17. Qxh7# 1-0\n\n\n",
+      "analysis": [
+        {
+          "eval": 0
+        },
+        {
+          "eval": 12
+        },
+        {
+          "eval": -65,
+          "best": "g1f3",
+          "variation": "Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7",
+          "judgment": {
+            "name": "Inaccuracy",
+            "comment": "Inaccuracy. Nf3 was best."
+          }
+        },
+        {
+          "eval": -43
+        },
+        {
+          "eval": -91
+        },
+        {
+          "eval": -56
+        },
+        {
+          "eval": -9
+        },
+        {
+          "eval": -27
+        },
+        {
+          "eval": -36
+        },
+        {
+          "eval": -36
+        },
+        {
+          "eval": -80
+        },
+        {
+          "eval": -70
+        },
+        {
+          "eval": -83
+        },
+        {
+          "eval": 0,
+          "best": "g7g6",
+          "variation": "g6 Qf3 Qh4+ Kf1 d5 exd6 Nxc3 bxc3 Bxd6 Qe4+",
+          "judgment": {
+            "name": "Inaccuracy",
+            "comment": "Inaccuracy. g6 was best."
+          }
+        },
+        {
+          "eval": -3
+        },
+        {
+          "eval": 17
+        },
+        {
+          "eval": -52,
+          "best": "c4d3",
+          "variation": "Bd3",
+          "judgment": {
+            "name": "Inaccuracy",
+            "comment": "Inaccuracy. Bd3 was best."
+          }
+        },
+        {
+          "eval": 0
+        },
+        {
+          "eval": 17
+        },
+        {
+          "eval": 81,
+          "best": "d8g5",
+          "variation": "Qg5 Qxg5 Nxg5 Bxf4 Be7 h4 Ne6 Bh6 Re8 h5 Ng7 Ng3 a5 O-O-O",
+          "judgment": {
+            "name": "Inaccuracy",
+            "comment": "Inaccuracy. Qg5 was best."
+          }
+        },
+        {
+          "eval": -309,
+          "best": "e1h1",
+          "variation": "O-O Be7 Qxf4 Bxe2 Nxe2 Bg5 Qg4 Qd7 Qf3 Bxc1 Rfxc1 a5 a4 Na6",
+          "judgment": {
+            "name": "Blunder",
+            "comment": "Blunder. O-O was best."
+          }
+        },
+        {
+          "eval": -321
+        },
+        {
+          "eval": -306
+        },
+        {
+          "eval": 278,
+          "best": "g4e2",
+          "variation": "Bxe2 Kxe2 f6 e6 Na6 Rae1 Re8 Kd1 Nc7 e7 Rxe7 h4 Bxc3 bxc3",
+          "judgment": {
+            "name": "Blunder",
+            "comment": "Blunder. Bxe2 was best."
+          }
+        },
+        {
+          "eval": 253
+        },
+        {
+          "eval": 835,
+          "best": "g4f5",
+          "variation": "Bf5 hxg5 Bg6 Nxf4 Be7 Nh3 a5 Raf1 Nd7 a4 b5 Rf6 Bxf6 gxf6",
+          "judgment": {
+            "name": "Blunder",
+            "comment": "Blunder. Bf5 was best."
+          }
+        },
+        {
+          "eval": 829
+        },
+        {
+          "eval": 856
+        },
+        {
+          "eval": 753
+        },
+        {
+          "eval": 2594,
+          "best": "f7f6",
+          "variation": "f6 Rg4+ Kf7 Nxf4 Bxg4 Qxh7+ Ke8 Qg6+ Kd7 Qxg4+ f5 Rh7+ Kc8 Qg7",
+          "judgment": {
+            "name": "Inaccuracy",
+            "comment": "Inaccuracy. f6 was best."
+          }
+        },
+        {
+          "eval": 2082
+        },
+        {
+          "mate": 1,
+          "best": "e7g5",
+          "variation": "Bg5 Rxg5+",
+          "judgment": {
+            "name": "Inaccuracy",
+            "comment": "Checkmate is now unavoidable. Bg5 was best."
+          }
+        }
+      ],
+      "division": {
+        "middle": 16
+      },
+      "import": {}
+    }
+  ]
+}

@@ -17,6 +17,9 @@
     "extractGames": "tsc --project ./tsconfig.generate.json && node build_scripts/nodeActions/extractPgns.js",
     "generate": "tsc --project ./tsconfig.generate.json && node build_scripts/nodeActions/generate.js",
     "removeVideo": "tsc --project ./tsconfig.generate.json && node build_scripts/nodeActions/removeVideo.js",
+    "extractScreenshots": "tsc --project ./tsconfig.generate.json && node build_scripts/nodeActions/extractScreenshots.js",
+    "extractScreenshots:dry": "tsc --project ./tsconfig.generate.json && node build_scripts/nodeActions/extractScreenshotsDryRun.js",
+    "extractScreenshots:reset": "find screenshots -name '.completed' -delete 2>/dev/null || true",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mateusz Dziurdziak",
